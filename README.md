@@ -1,19 +1,65 @@
-<!-- 🌈 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Welcome+To+My+Project;💻+Code.+Create.+Innovate.;🔥+Built+With+Passion" />
-</h1>
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Made%20With-Love-ff1493?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Neon-00ffff?style=for-the-badge">
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on *Web Development Projects*
+- 🌱 I’m currently learning *MERN Stack*
+- 💬 Ask me about *HTML, CSS, JavaScript, Python*
+- 📫 How to reach me: *yourgmail@gmail.com*
+- ⚡ Fun fact: I love coding & coffee ☕
+
+---
+
+## 🛠️ Currently Working With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github" />
 </p>
 
 ---
 
-## 🌌 About The Project
+## 💻 I Have Also Worked With
 
-```diff
-+ A powerful and modern project built with clean architecture
-+ Designed to solve real-world problems
-+ Fully responsive and developer-friendly
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bootstrap,tailwind,firebase,linux" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/yourprofile" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
+</a>
+
+<a href="mailto:yourgmail@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p>
+<a href="https://buymeacoffee.com/yourname">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" />
+</a>
+</p>
